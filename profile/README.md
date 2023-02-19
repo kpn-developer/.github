@@ -1,7 +1,7 @@
 ## Hello there, welcome to KPN Developer GitHub repository.
 
 We want to help you as a developer to build the user-friendly and convenient functionalities you and your customers desire. 
-That is why we designed a store with high-quality developer oriented products that are easy to integrate into your applications and services. 
+That is why we designed a portal with high-quality developer oriented products that are easy to integrate into your applications and services. 
 Our products give you access to innovative functionalities for communication, security, identity verification and more. 
 All from a single account.
 <!--
